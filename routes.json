@@ -1,0 +1,5 @@
+
+{
+    "/api/v1/customers": "/customers",
+    "/api/v1/drones": "/fleets"
+}

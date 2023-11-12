@@ -1,0 +1,106 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "customer 1",
+      "fleets": "2",
+      "drones": "2"
+    },
+    {
+      "id": 2,
+      "name": "customer 2",
+      "fleets": "2",
+      "drones": "3"
+    },
+    {
+      "id": 3,
+      "name": "customer 3",
+      "fleets": "2",
+      "drones": "2"
+    }
+  ],
+  "fleets": [
+    {
+      "id": 1131131,
+      "name": "fleet1",
+      "drones": [
+        {
+          "id": 1,
+          "name": "drone1"
+        },
+        {
+          "id": 2,
+          "name": "drone2"
+        },
+        {
+          "id": 3,
+          "name": "drone3"
+        },
+        {
+          "id": 4,
+          "name": "drone4"
+        },
+        {
+          "id": 5,
+          "name": "drone5"
+        }
+      ]
+    },
+    {
+      "id": 2213312,
+      "name": "fleet2",
+      "drones": [
+        {
+          "id": 1,
+          "name": "drone1"
+        },
+        {
+          "id": 2,
+          "name": "drone2"
+        },
+        {
+          "id": 3,
+          "name": "drone3"
+        },
+        {
+          "id": 4,
+          "name": "drone4"
+        },
+        {
+          "id": 5,
+          "name": "drone5"
+        },
+        {
+          "id": 6,
+          "name": "drone6"
+        },
+        {
+          "id": 7,
+          "name": "drone7"
+        }
+      ]
+    },
+    {
+      "id": 3312213,
+      "name": "fleet3",
+      "drones": [
+        {
+          "id": 1,
+          "name": "drone1"
+        },
+        {
+          "id": 2,
+          "name": "drone2"
+        },
+        {
+          "id": 3,
+          "name": "drone3"
+        },
+        {
+          "id": 4,
+          "name": "drone4"
+        }
+      ]
+    }
+  ]
+}
