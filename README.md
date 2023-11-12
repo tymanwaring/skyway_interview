@@ -1,12 +1,17 @@
 # Running Skyway Interview Code Test Locally
 
+# Install npm
+```sh
+npm i
+```
+
 # Start the react application
 ```sh
 npm start
 ```
 
 # The local server runs on a json server mock backend
-# Start the local server
+# Start the local server in a different terminal
 ```sh
 node server.js
 ```
