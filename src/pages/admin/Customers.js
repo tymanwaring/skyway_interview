@@ -104,11 +104,12 @@ export default function Customers(props) {
                                 <table class="w-full text-l text-center rtl:text-right text-black dark:text-black">
                                     <thead class="text-l text-black uppercase bg-gray-50 dark:bg-gray-50 dark:text-gray-700">
                                         <tr>
+                                            {/* Tell about this */}
                                             <th scope="col" class="px-6 py-3">
-                                                Fleet ID
+                                                Customer Name
                                             </th>
                                             <th scope="col" class="px-6 py-3">
-                                                Fleet Name
+                                                Fleet of Fleets
                                             </th>
                                             <th scope="col" class="px-6 py-3">
                                                 Number of Drones
