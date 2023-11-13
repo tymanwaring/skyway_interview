@@ -109,7 +109,7 @@ export default function Customers(props) {
                                                 Customer Name
                                             </th>
                                             <th scope="col" class="px-6 py-3">
-                                                Fleet of Fleets
+                                                Number of Fleets
                                             </th>
                                             <th scope="col" class="px-6 py-3">
                                                 Number of Drones
